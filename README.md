@@ -2,7 +2,7 @@
 
 This repository provides a template for creating a portfolio for the Q2 course "TN13015: Inleidend Practicum 2" using [JupyterBook 2](https://jupyterbook.org/) tailored for the Delft University of Technology (TUD).
 
-## Getting Started
+## Getting Started hush
 
 1. Check the GH pages and follow the instruction to use this template.
 
